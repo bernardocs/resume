@@ -1,4 +1,5 @@
 #Bernardo da Costa Santos
+> Resumé in PDF: [resume.pdf](resume.pdf)
 
 **Born in:** Rio de Janeiro, RJ - Brazil
 
