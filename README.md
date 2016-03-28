@@ -19,6 +19,8 @@
 I'm a developer traveling the road to design.
 Not long ago, I was working as a backend developer for almost 4 years until I started to get serious into UI and UX. I've been in love with it since then... Of course, I still like doing backend stuff, but UI design, UX is just way more amazing.
 
+Even though I'm currently at UI/UX I still very interested in AI, Machine Learning, Compilers, Distributed Systems, Parallel Programming and some other stuff.
+
 I also always search the best practices of whatever I'm doing. I think that's the most effective way to head to a professional knowledge.
 
 I also actively participates on meetups and talks. Community is such a beautiful thing. ;D
