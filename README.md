@@ -34,13 +34,27 @@ I also actively participates on meetups and talks. Community is such a beautiful
 * Javascript (Design Patterns, Tests - Still begginer at Angular.js and React.js)
 * Java
 * C#
-* NodeJS
-* Python
 * PHP
 * Git
 * MySQL
 * TDD and Continuous Integration
 * Scrum and Kanban
+
+##Studying
+
+* NodeJS
+* UX (rocks!)
+* Go
+
+
+##I don't use much, but already did things in...
+
+* Python
+* Ruby
+* Prolog
+* Scala, Scheme (looong ago, Dojo stuff)
+* Pascal, Delphi (in highschool)
+
 
 ##Work Experience
 
