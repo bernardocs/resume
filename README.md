@@ -88,3 +88,8 @@ I also actively participates on meetups and talks. Community is such a beautiful
 **Computer Science at [Universidade Federal Fluminense](http://www.uff.br) - UFF** - November 2012 - February 2016 (stopped)
 
 **Data processing tech highschool at [Colégio Pedro II](http://cp2.g12.br)** - February 2007 - December 2010
+
+##Languages
+**English** - Advanced
+**Portuguese** - Native
+**Spanish** - Beginner
