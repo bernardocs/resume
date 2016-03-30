@@ -91,5 +91,7 @@ I also actively participates on meetups and talks. Community is such a beautiful
 
 ##Languages
 **English** - Advanced
+
 **Portuguese** - Native
+
 **Spanish** - Beginner
