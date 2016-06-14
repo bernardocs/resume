@@ -58,7 +58,7 @@ I also actively participates on meetups and talks. Community is such a beautiful
 
 **Frontend developer** - [Shaw and Partners](http://www.shawandpartners.com) - March 2016 - June 2016
 
-> Handled the front (UI and Engeneering) of a quiz builder project. Worked a **lot** with Angular. Did some graphs using HTML Canvas. Neat!
+> Handled the front (UI and Engeneering) of a quiz builder project. Worked a **lot** with Angular. I also did some graphs using HTML Canvas. Neat!
 
 **Frontend UI developer** - [Avanti!](http://www.penseavanti.com.br) - February 2016 - March 2016
 
