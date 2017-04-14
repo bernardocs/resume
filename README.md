@@ -51,6 +51,10 @@ I also actively participates on meetups and talks. Community is such a beautiful
 
 ## Work Experience
 
+**Frontend engineer** - [Dzigual Golinelli](http://www.dzigual.com.br/) - June 2016 - Present
+
+> I'm assigned to head the frontend of a catalog/email marketing generator. Really tough and demanding, but learned a lot about projects archtecture and organization, bundlers, etc. As well as for CI and code review.
+
 **Frontend developer** - [Shaw and Partners](http://www.shawandpartners.com) - March 2016 - June 2016
 
 > Handled the front (UI and Engeneering) of a quiz builder project. Worked a **lot** with Angular. I also did some graphs using HTML Canvas. Neat!
