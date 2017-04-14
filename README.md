@@ -1,4 +1,4 @@
-#Bernardo da Costa Santos
+# Bernardo da Costa Santos
 
 **Born in:** Rio de Janeiro, RJ - Brazil
 
@@ -14,38 +14,33 @@
 
 **Github:** bernardocs
 
-##About me
-I'm a developer traveling the road to design.
-Not long ago, I was working as a backend developer for almost 4 years until I started to get serious into UI and UX. I've been in love with it since then... Of course, I still like doing backend stuff, but UI design, UX is just way more amazing.
+## About me
+Coffee-oriented developer, hard-coder, and an open source enthusiast, that aims for quality, performance and maintainability. Always search the best practices of whatever I'm doing. Which I think that its the most effective way to reach a professional knowledge.
 
-Even though I'm currently at UI/UX I still very interested in AI, Machine Learning, Compilers, Distributed Systems, Parallel Programming and some other stuff.
-
-I also always search the best practices of whatever I'm doing. I think that's the most effective way to head to a professional knowledge.
+Very interested in AI, Machine Learning, Compilers, Distributed Systems, Parallel Programming and some other stuff.
 
 I also actively participates on meetups and talks. Community is such a beautiful thing. ;D
 
-##Skills
+## Skills
 
 * HTML5
 * CSS (SASS/SCSS, PostCSS, Bootstrap - even though I'm a CSS purist)
 * Grunt - Gulp
-* Javascript (Angular.js and React.js - still a begginer at it though)
+* Javascript (Angular.js, Vue.js and React.js - begginer at the last one)
 * Java
 * C#
 * PHP
 * Git
 * MySQL
-* TDD and Continuous Integration
-* Scrum and Kanban
 
-##Studying
+## Studying
 
 * NodeJS
-* UX (rocks!)
 * Go
+* Ruby
 
 
-##I don't use much, but already did things in...
+## I don't use much, but already did things in...
 
 * Python
 * Ruby
@@ -54,7 +49,7 @@ I also actively participates on meetups and talks. Community is such a beautiful
 * Pascal, Delphi (in highschool)
 
 
-##Work Experience
+## Work Experience
 
 **Frontend developer** - [Shaw and Partners](http://www.shawandpartners.com) - March 2016 - June 2016
 
@@ -85,15 +80,16 @@ I also actively participates on meetups and talks. Community is such a beautiful
 > I helped with the structural cabling and the computers maintenances. No code at all. Boring (and it didn't even count as activity hours for my tech highschool). But I learned a lot about basic infrastructure and a little bit about network. I've setup a Novel file server and a Lotus Notes mail server.
 
 
-##Education
+## Education
+**Information Systems at [Universidade Federal de Santa Catarina](http://ufsc.br/) - UFSC** - March 2017 - Present
 
 **Computer Science at [Universidade Federal Fluminense](http://www.uff.br) - UFF** - November 2012 - February 2016 (stopped)
 
 **Data processing tech highschool at [Colégio Pedro II](http://cp2.g12.br)** - February 2007 - December 2010
 
-##Languages
-**English** - Advanced
+## Languages
+**English** - Fluent
 
 **Portuguese** - Native
 
-**Spanish** - Beginner
+**Spanish** - Learning
