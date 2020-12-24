@@ -16,30 +16,16 @@ Very interested in Big Data, Machine Learning, Compilers, Distributed Systems, P
 ---
 ## Skills
 ### Primary
-* Javascript (Node.js)
-* Vue (Nuxt)
-* AWS
-* ElasticSearch
-* Kubernetes
+Javascript (Node.js), Vue (Nuxt), AWS, ElasticSearch, Kubernetes
 
 ### Studying
-* Typescript
-* Go
+Typescript, Go
 
 ### Already worked with
-* Python
-* Java
-* C#
-* Scala (Apache Spark)
-* MySQL
+Python, Java, C#, Scala (Apache Spark), MySQL
 
 ### Experimented with...
-* Ruby
-* Pascal/Delphi
-* Prolog
-
-<br>
-<br>
+Ruby, Pascal/Delphi, Prolog
 
 ## Work Experience
 **Software engineer** @ [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - September 2018 - Present
