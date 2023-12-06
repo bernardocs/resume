@@ -1,11 +1,10 @@
 # Bernardo da Costa Santos
 
-**Born in:** Rio de Janeiro, RJ - Brazil<br>
-**Current Location:** Florianópolis, SC - Brazil<br>
-**E-mail:** bernardo.csantos@gmail.com<br>
-**Phone:** [+55 21 996182757](tel:+5521996182757)<br>
+**Born in:** Rio de Janeiro, RJ - Brazil 🇧🇷<br>
+**Current Location:** Florianópolis, SC - Brazil 🇧🇷<br>
+**E-mail:** [bernardo.csantos@gmail.com](mailto:bernardo.csantos@gmail.com)<br>
+**Phone:** [+5521996182757](tel:+5521996182757)<br>
 **Github:** [bernardocs](http://github.com/bernardocs)<br>
-**Skype:** bernardo.csantos
 
 ---
 ## About me
