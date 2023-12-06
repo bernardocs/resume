@@ -16,14 +16,20 @@ Great interest in AI, Compilers, and advanced optimization concepts.
 
 ---
 ## Skills
-### Primary
-Javascript (Node.js), Vue (Nuxt), AWS, ElasticSearch, Kubernetes
+### Concepts
+_Software Craftmanship_ (Quality as priority, TDD, CI/CD),<br>
+_Web development_ (Protocols, Client-server architecture, RESTful APIs, Cache, Queues),<br>
+_Distributed Systems_ (ETL's, CAP Theorem, Protocols),<br>
+_DevOps_ (Automations, IaC, Monitoring),<br>
 
-### Studying
-Typescript, Go
+### Primary
+Javascript, Typescript, AWS
+
+### Secondary
+GraphQL, NestJS, Terraform, BigQuery, ElasticSearch, Kubernetes, VueJS, PostgreSQL, MySQL
 
 ### Already worked with
-Python, Java, C#, Scala (Apache Spark), MySQL
+Scala (Apache Spark), Python, Java, C#
 
 ### Experimented with...
 Ruby, Pascal/Delphi, Prolog
