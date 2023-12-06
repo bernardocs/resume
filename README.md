@@ -87,7 +87,7 @@ Ruby, Pascal/Delphi, Prolog
 
 ---
 ## Languages
-**Portuguese** - Native
-**English** - Fluent
-**Spanish** - Intermediate
-**French** - Basic (learning)
+**Portuguese** - Native<br>
+**English** - Fluent<br>
+**Spanish** - Intermediate<br>
+**French** - Basic (learning)<br>
