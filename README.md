@@ -8,9 +8,11 @@
 
 ---
 ## About me
-Coffee-oriented developer that aims for quality, performance and maintainability. Always search the best practices of whatever I'm doing. Which I think that its the most effective way to reach a professional knowledge.
+Developer eager about technology and committed to excellence and efficiency in software development.
 
-Very interested in Big Data, Machine Learning, Compilers, Distributed Systems, Parallel Programming, Cloud, CI/CD and some other stuff.
+Has solid experience in Big Data projects, Distributed Systems, DevOps, and related areas.
+
+Great interest in AI, Compilers, and advanced optimization concepts.
 
 ---
 ## Skills
