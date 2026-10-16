@@ -60,6 +60,7 @@ Served as a backend engineer allocated to Hippo Insurance, driving core developm
 **Keywords**: Vue.js, JavaScript, Apache Spark, Scala, AWS (S3, Lambda, ECS), Python, Data Lake
 
 Collaborated with the Data Lake team on development and distributed batch processing over a big data architecture. On the frontend, led interface development for an automated e-commerce categorization solution adopted by major enterprise retailers (such as Carrefour). On the data engineering side, maintained pipelines leveraging Apache Spark (Scala), AWS S3, AWS Lambda, and Python, connecting big data infrastructure to web applications.
+
 ---
 
 ### Frontend Engineer @ [Dzigual Golinelli](http://www.dzigual.com.br/) - June 2016 – September 2017
@@ -80,7 +81,7 @@ Developed the frontend UI and logic for a quiz builder web application. Leveragi
 
 ---
 
-### Frontend UI Developer @ [Avanti!](http://www.penseavanti.com.br) - February 2016 – March 2016
+### Frontend Developer @ [Avanti!](http://www.penseavanti.com.br) - February 2016 – March 2016
 
 **Keywords**: HTML5, CSS3, SCSS, Grunt, AngularJS, UI Development
 
@@ -120,7 +121,7 @@ At Caelum (now [Alura](https://www.alura.com.br)), established my foundation in 
 
 ---
 
-### IT Intern** @ Brazilian Navy - September 2009 – March 2010
+### IT Intern @ Brazilian Navy - September 2009 – March 2010
 
 **Keywords**: Systems Administration, Networking, Hardware Maintenance, Novell NetWare, Lotus Notes
 
