@@ -39,9 +39,11 @@ Ruby, Pascal/Delphi, Prolog
 
 **Keywords**: Ruby, Kafka, Debezium (CDC), Elasticsearch, GCP, Kubernetes, Datadog, CI/CD
 
-I worked on a team responsible for feeding all data into RD Station's segmentation engine.
-To process high-volume changes from our core monolith database, we used Debezium (CDC) to stream mutations into Kafka topics. On the ingestion side, I maintained a Ruby microservice (built with Karafka) that transformed CDC payloads and indexed data across multiple Elasticsearch clusters. Our pipeline routinely handled heavy traffic spikes of 10M+ queued events during massive client operations.
-We managed our Kubernetes workloads on GCP, auditing container resource requests and limits to optimize cloud costs. We kept write-latency SLAs healthy by actively monitoring Datadog dashboards with strict operational thresholds and automated the indexer's CI/CD deployment pipeline to streamline rollouts.
+Worked on the team responsible for data ingestion into RD Station's segmentation engine.
+Leveraged Debezium (CDC) and Kafka to stream high-volume mutations from core transactional databases.
+Maintained Ruby microservices to transform CDC payloads and index data into distributed Elasticsearch clusters.
+Engineered the pipeline to handle traffic spikes exceeding 10M queued events during high-load operations.
+Managed Kubernetes workloads on GCP, auditing container resource limits for cloud cost optimization, maintaining strict write-latency SLAs via Datadog, and automating CI/CD pipelines.
 
 ---
 
@@ -49,7 +51,7 @@ We managed our Kubernetes workloads on GCP, auditing container resource requests
 
 **Keywords**: TypeScript, NestJS, GraphQL, Node.js, Microservices, REST APIs
 
-I began my involvement by contributing to a few small projects through outsourcing. Subsequently, I worked as a backend engineer allocated to [Hippo Insurance](https://www.hippo.com/), focusing on the Customer Portal backend and supporting surrounding engineering teams. I developed and maintained high-availability backend APIs using TypeScript, NestJS, and GraphQL within an established AWS cloud infrastructure, ensuring reliable service delivery for insured customer workflows.
+Served as a backend engineer allocated to Hippo Insurance, driving core development for the Customer Portal and supporting cross-functional engineering teams. Engineered and maintained high-availability TypeScript / NestJS and GraphQL APIs on AWS.
 
 ---
 
@@ -57,17 +59,16 @@ I began my involvement by contributing to a few small projects through outsourci
 
 **Keywords**: Vue.js, JavaScript, Apache Spark, Scala, AWS (S3, Lambda, ECS), Python, Data Lake
 
-I collaborated with the Data Lake team to handle batch distributed processes and build tools over a big data lake. On the frontend, I worked as a Vue.js specialist and led the interface development for an (tradicionaly trained) AI-powered product designed to categorize e-commerce items and SKUs, which was successfully piloted by major enterprise clients like Carrefour. On the data side, I contributed to batch pipelines using Apache Spark (Scala), AWS S3, AWS Lambda, and Python scripts, bridging big data infrastructure with intuitive web applications.
-
+Collaborated with the Data Lake team on development and distributed batch processing over a big data architecture. On the frontend, led interface development for an automated e-commerce categorization solution adopted by major enterprise retailers (such as Carrefour). On the data engineering side, maintained pipelines leveraging Apache Spark (Scala), AWS S3, AWS Lambda, and Python, connecting big data infrastructure to web applications.
 ---
 
 ### Frontend Engineer @ [Dzigual Golinelli](http://www.dzigual.com.br/) - June 2016 – September 2017
 
 **Keywords**: AngularJS, JavaScript, Webpack, Sass, WYSIWYG Editor, Frontend Architecture, CI/CD
 
-As the sole frontend engineer, I led the development of a WYSIWYG editor designed to automate catalog creation and email marketing campaigns for major enterprise clients, most notably Portobello. The platform automated a previously manual graphic design workflow, providing high-fidelity, real-time browser previews that accurately mirrored final printed catalog output.
+Led the development of a WYSIWYG editor designed to automate catalog creation and email marketing campaigns for major enterprise clients, such as Portobello. The platform provided high-fidelity, real-time browser previews that accurately mirrored final printed catalog outputs.
 
-I architected the application using AngularJS, Webpack, and Sass, handling complex DOM manipulations and state management while resolving integration conflicts between early reactive UI patterns and legacy jQuery plugins. Additionally, I established the project's build pipeline, asset bundling, and CI/CD workflows from the ground up.
+Built the application leveraging AngularJS, Webpack, Sass, and jQuery. Additionally, established the project's build pipeline, asset bundling, and CI/CD workflows from scratch
 
 ---
 
@@ -75,7 +76,7 @@ I architected the application using AngularJS, Webpack, and Sass, handling compl
 
 **Keywords**: AngularJS, HTML5, HTML5 Canvas, JavaScript, Frontend Development
 
-I worked as a contractor developing the frontend UI and logic for a quiz builder web application. Leveraging AngularJS and modern HTML5 capabilities, I built key application components and utilized the HTML5 Canvas API to render custom interactive graphs and visualizations.
+Developed the frontend UI and logic for a quiz builder web application. Leveraging AngularJS and HTML5, built core application components and used the HTML5 Canvas API to render custom interactive graphs and data visualizations
 
 ---
 
@@ -91,7 +92,7 @@ I developed responsive user interface screens within a tight timeframe, collabor
 
 **Keywords**: C#, .NET, JavaScript, HTML5, CSS3, Web Development
 
-I contributed to building a large-scale recruitment platform for Teleperformance, working across both frontend and backend tasks. I handled backend feature development using C# and .NET while driving frontend implementation, which sparked my long-term focus on web engineering.
+Contributed to the development of a large-scale recruitment platform for Teleperformance. Handled backend feature development in C# and .NET alongside frontend implementation, establishing my long-term path in web engineering.
 
 ---
 
@@ -99,7 +100,7 @@ I contributed to building a large-scale recruitment platform for Teleperformance
 
 **Keywords**: Java, EJB, JSF, JPA2, Spring, Enterprise Systems
 
-I worked at STI, the IT department responsible for overseeing UFF's academic software ecosystem. I maintained and developed features for two key university systems: Academic Tutoring and Scientific Initiation Scholarships, utilizing Java backend technologies such as EJB, JSF, JPA2, and Spring.
+Maintained and developed backend features for UFF's Academic Tutoring and Scientific Initiation Scholarship systems (STI). Leveraged Java enterprise technologies, including Spring, EJB, JSF, and JPA2
 
 ---
 
@@ -107,7 +108,7 @@ I worked at STI, the IT department responsible for overseeing UFF's academic sof
 
 **Keywords**: C#, .NET, SQL Server, Stored Procedures, Process Automation
 
-As my first formal software development role, I was tasked with maintaning operations systems with C# and .NET automation solutions. I maintained and optimized a photo printing spooler system, where performance tuning directly increased printer throughput and operational output. Additionally, I managed data operations in SQL Server, writing complex queries and maintaining stored procedures. I stepped down from the role upon being accepted into Universidade Federal Fluminense (UFF).
+As my first software development role, maintained operational systems using C# and .NET automation solutions. Optimized a photo printing spooler system, directly increasing printer throughput and operational output. Managed database operations in SQL Server, writing complex queries and maintaining stored procedures. Concluded the role upon starting my degree at Universidade Federal Fluminense (UFF).
 
 ---
 
@@ -115,9 +116,7 @@ As my first formal software development role, I was tasked with maintaning opera
 
 **Keywords**: Linux (Ubuntu), Bash Scripting, Debian Packaging (.deb), Sysadmin, Java, Agile, Community
 
-Caelum was where I built my foundation in software engineering, clean code, and agile culture. My core role focused on maintaining the Linux (Ubuntu) desktop infrastructure across classroom environments.
-
-To streamline setups and routine operations, I wrote custom Bash scripts and built tailored Debian (.deb) packages, reconfiguring `sources.list` to point student machines to internal private mirrors. Beyond infrastructure work, I deeply engaged with Caelum's technical ecosystem, taking courses in Java and agile methodologies while actively participating in community events, meetups, and Coding Dojos.
+At Caelum (now [Alura](https://www.alura.com.br)), established my foundation in software engineering, clean code, and agile practices. Maintained and automated the Linux (Ubuntu) desktop infrastructure across classroom labs using custom Bash scripts and Debian (.deb) packages configured to internal mirrors. Expanded my technical skills through Java and agile coursework while actively participating in local tech meetups and Coding Dojos.
 
 ---
 
@@ -125,7 +124,7 @@ To streamline setups and routine operations, I wrote custom Bash scripts and bui
 
 **Keywords**: Systems Administration, Networking, Hardware Maintenance, Novell NetWare, Lotus Notes
 
-My role focused on IT infrastructure maintenance, hardware troubleshooting, and structured network cabling. During this internship, I configured and maintained local network services, including a Novell file server and a Lotus Notes mail server, gaining foundational hands-on experience in networking, systems administration, and IT infrastructure.
+Focused on IT infrastructure maintenance, hardware troubleshooting, and structured network cabling. Configured and maintained local network services, including Novell file servers and Lotus Notes mail servers, building a solid hands-on foundation in networking and systems administration.
 
 ---
 ## Education
