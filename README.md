@@ -23,16 +23,16 @@ _Distributed Systems_ (ETL's, CAP Theorem, Protocols),<br>
 _DevOps_ (Automations, IaC, Observability),<br>
 
 ### Primary
-Ruby, Javascript/Typescript, AWS, GCP
+Ruby, Javascript/Typescript, AWS, GCP, Kubernetes
 
 ### Secondary
-Kubernetes, PostgreSQL, Terraform, BigQuery, ElasticSearch, GraphQL, NestJS, VueJS
+PostgreSQL, Terraform, BigQuery, ElasticSearch, GraphQL, NestJS, VueJS
 
 ### Already worked with
 Scala (Apache Spark), Python, Java, C#
 
 ### Experimented with...
-Ruby, Pascal/Delphi, Prolog
+Pascal/Delphi, Prolog
 
 ## Work Experience
 ### Senior Software Engineer @ [RD Station (TOTVS)](https://www.rdstation.com/) - March 2024 – September 2026
